@@ -1,0 +1,69 @@
+[
+  {
+    "name": "OPPO F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO F21s Pro 5G is a powerful device with great camera and performance.",
+    "ratings": 4.5,
+    "images": [
+      { "image": "/images/products/1.jpg" },
+      { "image": "/images/products/2.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 0,
+    "numOfReviews": 32
+  },
+  {
+    "name": "Lenovo ideapad",
+    "price": 799,
+    "description": "Slim and reliable Lenovo IdeaPad laptop with Intel processor, Full HD display, and long-lasting battery for everyday productivity.",
+    "ratings": 4.7,
+    "images": [
+      { "image": "/images/products/3.jpg" },
+      { "image": "/images/products/4.jpg" }
+    ],
+    "category": "Laptop",
+    "seller": "Brand Lenovo",
+    "stock": 30,
+    "numOfReviews": 120
+  },
+  {
+    "name": "Nike Air Max Running Shoes",
+    "price": 699,
+    "description": "Experience all-day comfort with the Nike Air Max Running Shoes. Designed with responsive cushioning and breathable materials for maximum performance.",
+    "ratings": 4.4,
+    "images": [
+      { "image": "/images/products/5.jpg" }
+    ],
+    "category": "Footwear",
+    "seller": "Nike",
+    "stock": 8,
+    "numOfReviews": 90
+  },
+  {
+    "name": "Asus Vivobook 15s",
+    "price": 329,
+    "description": "ASUS VivoBook is a stylish and lightweight laptop designed for everyday productivity with Intel Core processor, Full HD display, and fast SSD storage.",
+    "ratings": 4.3,
+    "images": [
+      { "image": "/images/products/6.jpg" }
+    ],
+    "category": "Laptop",
+    "seller": "Asus",
+    "stock": 12,
+    "numOfReviews": 75
+  },
+  {
+    "name": "Lenovo LOQ",
+    "price": 120,
+    "description": "Lenovo LOQ gaming laptop featuring Intel Core i5 processor, NVIDIA GeForce RTX graphics, high-refresh-rate display, and advanced cooling for smooth gaming.",
+    "ratings": 4.6,
+    "images": [
+      { "image": "/images/products/7.jpg" }
+    ],
+    "category": "Laptop",
+    "seller": "Lenovo",
+    "stock": 20,
+    "numOfReviews": 60
+  }
+]
